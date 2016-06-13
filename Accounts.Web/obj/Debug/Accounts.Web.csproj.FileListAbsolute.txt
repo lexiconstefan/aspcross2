@@ -1,0 +1,156 @@
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\ApplicationInsights.config
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\roslyn\csc.exe
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\roslyn\vbc.exe
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Accounts.Web.dll.config
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Accounts.Web.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Accounts.Web.pdb
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Antlr3.Runtime.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\EntityFramework.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.AI.Web.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Newtonsoft.Json.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\System.Web.Helpers.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\System.Web.Mvc.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\System.Web.Optimization.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\System.Web.Razor.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\System.Web.WebPages.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\UserAccounts.Entities.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\WebGrease.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\UserAccounts.Entities.pdb
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\EntityFramework.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.AI.Web.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\System.Web.Helpers.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\System.Web.Mvc.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\System.Web.Optimization.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\System.Web.Razor.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\System.Web.WebPages.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Antlr3.Runtime.pdb
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Newtonsoft.Json.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\obj\Debug\Accounts.Web.csprojResolveAssemblyReference.cache
+C:\Users\elev11\projects\Accounts4\Accounts.Web\obj\Debug\Accounts.Web.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\obj\Debug\Accounts.Web.pdb
+C:\Users\elev11\projects\Accounts4\Accounts.Web\obj\Debug\Accounts.Web.DataContexts.UserAccountsMigration.InitialCreate.resources
+C:\Users\elev11\projects\Accounts4\Accounts.Web\obj\Debug\Accounts.Web.csproj.GenerateResource.Cache
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.Owin.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Owin.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.Owin.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\elev11\projects\Accounts4\Accounts.Web\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\ApplicationInsights.config
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\roslyn\csc.exe
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\roslyn\vbc.exe
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Accounts.Web.dll.config
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Accounts.Web.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Accounts.Web.pdb
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Antlr3.Runtime.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\EntityFramework.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.Owin.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Newtonsoft.Json.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Owin.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\System.Web.Helpers.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\System.Web.Mvc.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\System.Web.Optimization.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\System.Web.Razor.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\System.Web.WebPages.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\UserAccounts.Entities.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\WebGrease.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\UserAccounts.Entities.pdb
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\EntityFramework.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.Owin.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\System.Web.Helpers.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\System.Web.Mvc.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\System.Web.Optimization.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\System.Web.Razor.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\System.Web.WebPages.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\bin\Newtonsoft.Json.xml
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\obj\Debug\Accounts.Web.csprojResolveAssemblyReference.cache
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\obj\Debug\Accounts.Web.DataContexts.UserAccountsMigration.InitialCreate.resources
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\obj\Debug\Accounts.Web.csproj.GenerateResource.Cache
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\obj\Debug\Accounts.Web.dll
+C:\Users\Ferm\Documents\Visual Studio 2015\Projects\accounts\Accounts.Web\obj\Debug\Accounts.Web.pdb

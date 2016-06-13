@@ -1,0 +1,42 @@
+﻿html{
+    font-size:16px;
+}
+body{
+   
+    font-size :68.5%;
+    background-color: #EAE7E7;
+}  
+hr{
+    border: 1px solid #ccc;
+   
+    
+}
+
+.padding-tb-1_3{
+     padding:1.3020833333333334% 0;
+}
+.generic-container {
+       
+        padding: 1.3020833333333334%;
+        background-color: #EAE7E7;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        box-shadow: 0 0 1px black;
+    }
+.panel-default{
+    background-color: #DAE8E8;
+    
+}
+.panel-heading span {
+	margin-top: -20px;
+	font-size: 15px;
+}
+.clickable{
+    cursor: pointer;   
+}
+/*@media (max-width: 768px) 
+{
+  .collapse.in {
+        display: none;
+    }
+}*/

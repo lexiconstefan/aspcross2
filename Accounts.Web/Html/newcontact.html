@@ -1,0 +1,168 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="../Content/bootstrap3.3.6/bootstrap.css" rel="stylesheet" />
+    <link href="../Content/form.css" rel="stylesheet" />
+    <script src="../Scripts/angular.js"></script>
+    <script src="../resources/js/crmApp.js"></script>
+</head>
+<body>
+    <form name="newContactForm" ng-submit="submitNewContact()" novalidate>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-7"><!-- First column-->
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="panel panel-default">
+                            <div class="panel-heading"><h3 class="panel-title">Ny Kontakt</h3></div>
+                            <div class="panel-body">
+                                <div class="form-horizontal">
+                                    <div class="form-group">
+                                        <label for="firstName" class="control-label col-md-2">Förnamn</label>
+                                        <div class="col-md-10">
+                                            <input ng-model="contact.firstName" type="text" name="firstName" class="form-control" placeholder="Förnamn" required/>
+                                            <p class="help-block" ng-show="newContactForm.firstName.$invalid">Förnamn är obligatorisk</p>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="lastName" class="control-label col-md-2">Efternamn</label>
+                                        <div class="col-md-10">
+                                            <input ng-model="contact.lastName" type="text" name="lastName" class="form-control" placeholder="Efternamn" />
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="title" class="control-label col-md-2">Title</label>
+                                        <div class="col-md-10">
+                                            <input ng-model="contact.title" type="text" name="title" class="form-control" placeholder="Tite" />
+
+                                        </div>
+                                    </div>
+                                    <div id="phone_div">
+                                        <div class="container-fluid">
+                                            <img class="pull-right" style="height:16px" src="../resources/addphone.png" />
+                                        </div> 
+                                        <div class="col-sm-4">
+                                            <div class="form-group">
+                                                <label class="control-label">Telefontyp</label>
+
+                                                <select class="form-control">
+                                                    <option value="home">Hem</option>
+                                                    <option value="work">Arbete</option>
+                                                    <option value="mobil">Mobil</option>
+                                                </select>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-sm-1"></div>
+                                        <div class="col-sm-7">
+                                            <div class="form-group">
+                                                <label class="control-label control-label">Nummer</label>
+
+                                                <input type="tel" class="form-control" />
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                
+                                    <div id="email_div">
+                                        <div class="form-group">
+                                            <label for="email" class="control-label col-md-2">E-mail</label>
+                                            <div class="col-md-10">
+                                                <input ng-model="contact.email" type="email" name="lastName" class="form-control" placeholder="E-mail" />
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6"><!--column two company-->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <div class="row">
+                                <div class="col-md-3"><h3 class="panel-title">Företag</h3></div>
+                                <div class="col-md-7"></div>
+                                <div class="col-md-1"><img style="margin-top:-12px" height="24" width="24" alt="" src="../resources/images/Department Filled-50.png" /></div>
+                                <div class="col-md-1"><input type="checkbox" class="" /></div>
+                            </div>
+                            
+                        
+                       
+                        </div>
+                        <div class="panel-body">
+                            <div class="form-horizontal">
+                                <div class="form-group">
+                                    <label for="title" class="control-label col-md-3">Företagsnamn</label>
+                                    <div class="col-md-9">
+                                        <input ng-model="company.name" type="text" name="companyName" class="form-control" placeholder="Företagsnamn" />
+
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="title" class="control-label col-md-4">Organisationsnummer</label>
+                                    <div class="col-md-8">
+                                        <input ng-model="company.number" type="text" name="number" class="form-control" placeholder="Organisationsnummer" />
+
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="title" class="control-label col-md-3">Adress</label>
+                                    <div class="col-md-9">
+                                        <input ng-model="company.adress.adress" type="text" name="adress" class="form-control" placeholder="Adress" />
+
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="title" class="control-label col-md-3">Postnummer</label>
+                                    <div class="col-md-9">
+                                        <input ng-model="company.adress.zip" type="text" name="zip" class="form-control" placeholder="Postnummer" />
+
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="control-label col-md-2">Land</label>
+                                    <div class="col-md-10">
+                                        <select class="form-control">
+                                            <option>Välj land</option>
+                                            <option value="">Svergie</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="control-label col-md-2">Län</label>
+                                    <div class="col-md-10">
+                                        <select class="form-control">
+                                            <option>Välj län</option>
+                                            <option value="Skåne">Skåne</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="control-label col-md-2">Kommun</label>
+                                    <div class="col-md-10">
+                                        <select class="form-control">
+                                            <option>Välj kommun</option>
+                                            <option value="Bromölla">Bromölla</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                       
+                    </div><!--End column two company-->
+                </div>
+                </div><!--End First column-->
+                <div class="col-md-offset-3"></div><!--End Offset 3-->
+            </div>
+        </div>
+    </form>
+   
+</body>
+</html>

@@ -1,0 +1,58 @@
+﻿html{
+    font-size:16px;
+}
+body {
+    font-size:68.5%;
+    font-family:Georgia,serif;
+    padding-top: 5em;
+    padding-bottom: 2em;
+}
+h2{
+    font-size:2em;
+}
+h4{
+    font-size:1.12em;
+    
+}
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 1.5120967741935484%;
+    padding-right: 1.5120967741935484%;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+
+/*My own*/
+.margin-top{
+    margin-top:5px;
+}
+
+
+.formcontainer {
+    background-color: #DAE8E8;
+    padding:2.0161290322580645%;
+}
+
+@media screen and (min-width: 768px) {
+    .generic-container {
+       
+        padding: 20px;
+        background-color: #EAE7E7;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        box-shadow: 0 0 1px black;
+    }
+}

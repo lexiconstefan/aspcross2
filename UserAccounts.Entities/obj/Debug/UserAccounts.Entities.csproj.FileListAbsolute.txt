@@ -1,0 +1,5 @@
+C:\Users\elev11\projects\Accounts4\UserAccounts.Entities\bin\Debug\UserAccounts.Entities.dll
+C:\Users\elev11\projects\Accounts4\UserAccounts.Entities\bin\Debug\UserAccounts.Entities.pdb
+C:\Users\elev11\projects\Accounts4\UserAccounts.Entities\obj\Debug\UserAccounts.Entities.csprojResolveAssemblyReference.cache
+C:\Users\elev11\projects\Accounts4\UserAccounts.Entities\obj\Debug\UserAccounts.Entities.dll
+C:\Users\elev11\projects\Accounts4\UserAccounts.Entities\obj\Debug\UserAccounts.Entities.pdb

@@ -1,0 +1,111 @@
+﻿@model IEnumerable<UserAccounts.Entities.UserAccount>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+
+    <a href="~/UserAccounts/Create" class="btn btn-primary">Skapa en ny</a>
+</p>
+<div class="generic-container">
+    <div class="panel panel-default formcontainer">
+        <div class="panel-heading"><span class="lead">Sök på</span></div>
+        <div class="margin-top">
+            <label class="checkbox-inline">
+                <input type="checkbox" id="inlineCheckbox1" value="option1"> Kommun
+            </label>
+            <label class="checkbox-inline">
+                <input type="checkbox" id="inlineCheckbox2" value="option2"> Avdelning
+            </label>
+            <label class="checkbox-inline">
+                <input type="checkbox" id="inlineCheckbox3" value="option3"> Konto
+            </label>
+        </div>
+        <div class="margin-top">
+
+
+
+            <div class="form-inline">
+                <div class="form-group">
+                    
+                    <input type="text" class="form-control" id="municipality" placeholder="Kommun">
+                </div>
+                <div class="form-group">
+                    
+                    <select id="sel_department" class="form-control"><option>Välj avdelning..</option></select>
+                </div>
+                <div class="form-group">
+                    
+                    <select id="sel_account" class="form-control"><option>Välj avdelning..</option></select>
+                </div>
+                <button onclick="userController.getUserAccountList()" type="submit" class="btn btn-primary">Filter</button>
+            </div>
+
+
+        </div>
+    </div>
+
+
+
+
+
+    <div class="panel panel-default margin-top">
+
+        <div class="panel-heading"><span class="lead">Användarkonton</span></div>
+        <div class="formcontainer table-responsive">
+            <table class="table">
+                <tr class="active">
+                    <th>
+                        @Html.DisplayNameFor(model => model.account.name)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.department.name)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.municipality)
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+            {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.account.name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.department.name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.municipality)
+                        </td>
+                        <td>
+                            <a href="@string.Format("UserAccounts/Edit/{0}",item.id)" class="btn btn-success">Edit</a>
+
+                            <a href="@string.Format("UserAccounts/Details/{0}",item.id)" class="btn btn-success">Detaljer</a>
+                            <a href="@string.Format("UserAccounts/Delete/{0}",item.id)" class="btn btn-danger">Ta bort</a>
+
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        </div>
+    </div>
+    <ul class="pagination">
+        <li class="disabled"><a href="#">&laquo;</a></li>
+        <li class="active"><a href="#">1</a></li>
+        <li><a href="#">2</a></li>
+        <li><a href="#">3</a></li>
+        <li><a href="#">4</a></li>
+        <li><a href="#">5</a></li>
+        <li><a href="#">&raquo;</a></li>
+    </ul>
+</div>
+@section Scripts {
+   
+<script src="~/Scripts/js/useraccount/controller.js"></script>
+}
